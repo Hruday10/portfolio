@@ -40,14 +40,14 @@ h2 {
     object-fit: cover;
 } */
 
-.project-card img {
+/* .project-card img {
     width: 220px;
     max-width: 100%;
     height: auto;
     border-radius: 6px;
     object-fit: contain;
     background-color: #f5f5f5;
-}
+} */
 
 
 .project-content h3 {
